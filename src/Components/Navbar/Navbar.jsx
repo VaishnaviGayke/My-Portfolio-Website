@@ -7,7 +7,7 @@ import menu_open from '../../assets/menu_open.svg';
 import menu_close from '../../assets/menu_close.svg';
 import linkedin from '../../assets/linkedin.png';  // Add your LinkedIn logo path
 import github from '../../assets/github.png';      // Add your GitHub logo path
-import instagram from '../../assets/instagram.png'; // Add your Instagram logo path
+import scholar from '../../assets/scholar.png'; // Add your scholar logo path
 
 const Navbar = () => {
 
@@ -31,8 +31,8 @@ const Navbar = () => {
         <a href="https://github.com/VaishnaviGayke" target="_blank" rel="noopener noreferrer">
           <img src={github} alt="GitHub" />
         </a>
-        <a href="https://www.instagram.com/vaish_2120?igsh=MWY0eXUzNmk5eWxrZw%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer">
-          <img src={instagram} alt="Instagram" />
+        <a href="https://scholar.google.com/citations?hl=en&user=8om5xqAAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=vaishnavipgayke2120%40gmail.com&authuser=5&gmla=AH8HC4wbl3GVHbsNGbHS4upuA3ivbApstP962GdK2Ru3G_3lsjH59_7rVMnMb2eubYG2k3kgbnSR9DZGA-zaYx9u" target="_blank" rel="noopener noreferrer">
+          <img src={scholar} alt="Scholar" />
         </a>
       </div>
 
