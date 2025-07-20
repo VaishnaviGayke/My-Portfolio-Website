@@ -26,7 +26,7 @@
   - [Running Locally](#running-locally)  
 - [Project Structure](#project-structure)    
 - [Deployment](#deployment)  
-- [Screenshots](#screenshots)  
+ 
  
 
 ---
