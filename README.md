@@ -3,13 +3,15 @@
 > A sleek, modern React/Vite portfolio website showcasing my skills, projects, publications, and contact form.
 
 <img width="1888" height="927" alt="image" src="https://github.com/user-attachments/assets/9b074f8c-ea1e-47d9-9930-0bd031fe7c1d" />
+<img width="1886" height="918" alt="image" src="https://github.com/user-attachments/assets/933c084f-78c7-46c5-814d-ce9d9a47c69c" />
+
 
 
 ---
 
 ## 🚀 Live Demo
 
-[[https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)](https://vaishnavigayke.vercel.app/)
+(https://vaishnavigayke.vercel.app/)
 
 ---
 
@@ -22,12 +24,10 @@
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
   - [Running Locally](#running-locally)  
-- [Project Structure](#project-structure)  
-- [Customization](#customization)  
+- [Project Structure](#project-structure)    
 - [Deployment](#deployment)  
 - [Screenshots](#screenshots)  
-- [Contact](#contact)  
-- [License](#license)  
+ 
 
 ---
 
@@ -82,7 +82,7 @@ This portfolio site is built with **React** and **Vite**, styled using **Tailwin
 
     npm install
 
-   **Running Locally**
+3. **Running Locally**
 
     npm run dev
 
@@ -90,7 +90,7 @@ Open http://localhost:5173 in your browser to view the site.
 
 ## 🗂 Project Structure
 
-my-portfolio/
+My-Portfolio-Website/
 ├── public/               # Static files (favicons, index.html)
 ├── src/
 │   ├── assets/           # Images, icons, PDFs
@@ -109,7 +109,7 @@ my-portfolio/
 ## 🚀 Deployment
 This project can be deployed to any static hosting provider.
 
-1. Vercel
+1. **Vercel**
 - Push your repo to GitHub.
 
 - Import the project in Vercel.
@@ -118,12 +118,12 @@ This project can be deployed to any static hosting provider.
 
 - Deploy!
 
-2. Netlify
+2. **Netlify**
 - Connect your GitHub repo.
 
 - Set Build command to npm run build and Publish directory to dist.
 
 - Deploy!
 
-## 📸 Screenshots
+
 
