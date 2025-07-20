@@ -2,7 +2,8 @@
 
 > A sleek, modern React/Vite portfolio website showcasing my skills, projects, publications, and contact form.
 
-![Portfolio Preview](./screenshot-hero.png)
+<img width="1888" height="927" alt="image" src="https://github.com/user-attachments/assets/9b074f8c-ea1e-47d9-9930-0bd031fe7c1d" />
+
 
 ---
 
@@ -86,3 +87,43 @@ This portfolio site is built with **React** and **Vite**, styled using **Tailwin
     npm run dev
 
 Open http://localhost:5173 in your browser to view the site.
+
+## 🗂 Project Structure
+
+my-portfolio/
+├── public/               # Static files (favicons, index.html)
+├── src/
+│   ├── assets/           # Images, icons, PDFs
+│   ├── Components/
+│   │   ├── About/        # About.jsx + About.css
+│   │   ├── Hero/         # Hero.jsx + Hero.css
+│   │   ├── MyWork/       # MyWork.jsx + MyWork.css
+│   │   ├── Services/     # Services.jsx + Services.css
+│   │   └── Contact/      # Contact.jsx + Contact.css
+│   ├── App.jsx           # Main layout & routing
+│   └── index.jsx         # App entry point
+├── tailwind.config.js
+├── vite.config.js
+└── package.json
+
+## 🚀 Deployment
+This project can be deployed to any static hosting provider.
+
+1. Vercel
+- Push your repo to GitHub.
+
+- Import the project in Vercel.
+
+- Set build command to npm run build and output directory to dist/.
+
+- Deploy!
+
+2. Netlify
+- Connect your GitHub repo.
+
+- Set Build command to npm run build and Publish directory to dist.
+
+- Deploy!
+
+## 📸 Screenshots
+
