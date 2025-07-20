@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-[https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)
+[[https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)](https://vaishnavigayke.vercel.app/)
 
 ---
 
